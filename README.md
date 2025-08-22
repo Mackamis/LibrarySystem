@@ -1,2 +1,2 @@
 # LibrarySystem
-Java project with GUIfor a simple library managing system.
+Java project with GUI for a simple library managing system.
